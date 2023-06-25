@@ -5,7 +5,7 @@ luci-app-openclash 适用于Openwrt 编译
 ## 同步源码
     cd lede/package
     
-    git clone https://github.com/yuos-bit/luci-app-openclash.git 
+    git clone https://github.com/Yofo-me/luci-app-openclash.git
     
     更新，安装软件包,输入
     
